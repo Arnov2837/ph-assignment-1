@@ -142,7 +142,7 @@
 
 main {
   /* background-color: #c6a5a5; */
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 
 .midel .midel1 {
@@ -206,4 +206,57 @@ p {
   align-items: center;
   padding: 9px;
   margin-bottom: 3px;
+}
+
+/* down */
+
+
+.down1 {
+  /* background-color: #F95555; */
+  max-width: 1600px;
+
+}
+
+.down {
+  width: 71%;
+  max-width: 1140px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  justify-content: space-between;
+  text-align: left;
+  gap: 25px;
+}
+
+.down .imee img {
+  width: 400px;
+  height: 400px;
+  /* padding: 20px; */
+  margin: 20px;
+
+}
+
+.box-right {
+  margin-top: 30px;
+  padding: 10px;
+}
+
+.down .box-right .ck img {
+  width: 12px;
+  height: 12px;
+  margin-top: 10px;
+
+}
+
+.down .box-right .ck p {
+  font-size: 10px;
+  text-align: start;
+  margin-left: 12px;
+
+
+}
+
+.ck {
+  margin-top: 10px;
+
 }
