@@ -140,10 +140,10 @@
 /* main designe */
 
 
-main {
-  /* background-color: #c6a5a5; */
-  /* border: 1px solid red; */
-}
+/* main {
+  background-color: #c6a5a5;
+  border: 1px solid red;
+} */
 
 .midel .midel1 {
   text-align: center;
@@ -310,4 +310,22 @@ p {
   margin-top: 4px;
   line-height: 5px;
   font-size: small;
+}
+
+/* footer section */
+
+footer {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(100, 89, 89);
+  height: 360px;
+  align-items: center;
+  margin-top: 45px;
+}
+
+main .pp {
+  font-size: small;
+  background-color: rgb(100, 89, 89);
+  height: 20px;
+  margin-top: 0;
 }
