@@ -136,3 +136,74 @@
   color: black;
   background-color: #30B868;
 }
+
+/* main designe */
+
+
+main {
+  /* background-color: #c6a5a5; */
+  border: 1px solid red;
+}
+
+.midel .midel1 {
+  text-align: center;
+  margin-top: 25px;
+  line-height: 20px;
+}
+
+.midel .midel1 p {
+  font-size: 6px;
+
+}
+
+.midel .cart {
+  width: 67%;
+  max-width: 1140px;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  /* border: 1px solid red; */
+  justify-content: space-around;
+  gap: 5px;
+  margin-top: 20px;
+  margin-left: 79px;
+
+}
+
+.cart .cart1 {
+  /* border: 1px solid red; */
+  background-color: aliceblue;
+}
+
+
+.cart .cart1 h3,
+p {
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  margin-top: 4px;
+  line-height: 20px;
+}
+
+.cart .cart1 img {
+  background-color: #F95555;
+  border-radius: 50%;
+  background-size: cover;
+  margin: 0 100px;
+  padding: 5px;
+  margin-top: 6px;
+  width: 30px;
+
+}
+
+.cart .cart1 p {
+  font-size: 10px;
+}
+
+.cart1 {
+  height: 120px;
+  border-radius: 8px;
+  align-items: center;
+  padding: 9px;
+  margin-bottom: 3px;
+}
